@@ -1,2 +1,2 @@
-# SpaceClient
-Open Source Minecraft Client for Space Client | v1.0.0
+# EclipseClient
+Open Source Minecraft Client for Eclipse Client | v1.0.0
