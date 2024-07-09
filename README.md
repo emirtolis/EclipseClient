@@ -37,7 +37,4 @@ cd eclipse-client
 ## Donate
 
 We continue to renew and develop Eclipse every day. You can make a donation to help us bring you a better gaming experience. [Donate Page](https://eclipseclient.com/donate)
-<a href="https://eclipseclient.com/donate">
- <img src="https://eclipseclient.com/static/img/git-donate.png?s=" width="200"></img>
-</a>
 
